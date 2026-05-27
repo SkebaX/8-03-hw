@@ -10,7 +10,7 @@
 
 ```
 
-<img width="1013" height="674" alt="image" src="https://github.com/user-attachments/assets/035188b1-49f4-4009-b82f-93b8fc72869f" />
+
 
 
 
